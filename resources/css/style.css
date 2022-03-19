@@ -1,4 +1,37 @@
 * {
-    background-color: black;
-    color: seashell;
+  background-color: black;
+  color: seashell;
+  align-items: center;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p,
+a {
+  color: aquamarine;
+}
+
+header h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.features h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.features figcaption {
+  font-size: 21px;
+  color: gray;
+}
+
+.mobileapp {
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+footer h4 {
+  text-align: right;
+  color: gray;
 }
